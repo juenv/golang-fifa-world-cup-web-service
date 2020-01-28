@@ -1,6 +1,7 @@
 package handlers
 
 import (
+	"golang-fifa-world-cup-web-service/data"
 	"net/http"
 )
 
